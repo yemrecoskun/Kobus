@@ -1,0 +1,207 @@
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\Kobus.dll.config
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\Kobus.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\Kobus.pdb
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\csc.exe
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\csc.exe.config
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\csc.rsp
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\csi.exe
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\csi.exe.config
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\csi.rsp
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\System.AppContext.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\System.Console.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\System.IO.Compression.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\System.Security.Claims.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\System.ValueTuple.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\vbc.exe
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\vbc.exe.config
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\vbc.rsp
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\VBCSCompiler.exe
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\System.Web.Helpers.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\System.Web.Mvc.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\System.Web.Razor.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\System.Web.Webpages.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\System.Web.Webpages.Razor.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\System.Web.Razor.xml
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\System.Web.Webpages.xml
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\System.Web.Webpages.Razor.xml
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\System.Web.Helpers.xml
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\System.Web.Mvc.xml
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\obj\Debug\Kobus.csprojAssemblyReference.cache
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\obj\Debug\Kobus.csproj.CoreCompileInputs.cache
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\obj\Debug\Kobus.csproj.CopyComplete
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\obj\Debug\Kobus.dll
+C:\Users\ATASAGUN\source\repos\Kobus\Kobus\obj\Debug\Kobus.pdb
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\Kobus.dll.config
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\Kobus.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\Kobus.pdb
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\csc.exe
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\csc.exe.config
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\csc.rsp
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\csi.exe
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\csi.exe.config
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\csi.rsp
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\System.AppContext.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\System.Console.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\System.IO.Compression.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\System.IO.Pipes.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\System.Security.Claims.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\System.ValueTuple.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\vbc.exe
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\vbc.exe.config
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\vbc.rsp
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\VBCSCompiler.exe
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\System.Web.Helpers.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\System.Web.Mvc.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\System.Web.Razor.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\System.Web.Webpages.Deployment.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\System.Web.Webpages.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\System.Web.Webpages.Razor.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\System.Web.Razor.xml
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\System.Web.Webpages.xml
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\System.Web.Webpages.Deployment.xml
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\System.Web.Webpages.Razor.xml
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\System.Web.Helpers.xml
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\System.Web.Mvc.xml
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\obj\Debug\Kobus.csprojAssemblyReference.cache
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\obj\Debug\Kobus.csproj.CopyComplete
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\obj\Debug\Kobus.dll
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\obj\Debug\Kobus.pdb
+C:\Users\jrewi\OneDrive\Masaüstü\Kobus\Kobus\obj\Debug\Kobus.csproj.CoreCompileInputs.cache
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\Kobus.dll.config
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\Kobus.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\Kobus.pdb
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\csc.exe
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\csc.exe.config
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\csc.rsp
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\csi.exe
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\csi.exe.config
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\csi.rsp
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\System.AppContext.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\System.Console.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\System.IO.Compression.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\System.IO.Pipes.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\System.Security.Claims.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\System.ValueTuple.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\vbc.exe
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\vbc.exe.config
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\vbc.rsp
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\VBCSCompiler.exe
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\System.Web.Helpers.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\System.Web.Mvc.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\System.Web.Razor.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\System.Web.Webpages.Deployment.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\System.Web.Webpages.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\System.Web.Webpages.Razor.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\System.Web.Razor.xml
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\System.Web.Webpages.xml
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\System.Web.Webpages.Deployment.xml
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\System.Web.Webpages.Razor.xml
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\System.Web.Helpers.xml
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\System.Web.Mvc.xml
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\obj\Debug\Kobus.csprojAssemblyReference.cache
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\obj\Debug\Kobus.csproj.CoreCompileInputs.cache
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\obj\Debug\Kobus.csproj.CopyComplete
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\obj\Debug\Kobus.dll
+C:\Users\jrewi\OneDrive\Masaüstü\New folder\Kobus\obj\Debug\Kobus.pdb
